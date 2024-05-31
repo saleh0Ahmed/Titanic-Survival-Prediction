@@ -1,2 +1,2 @@
 # Titanic-Survival-Prediction
-The Titanic Survival Prediction project aims to analyze and predict 
+The Titanic Survival Prediction project aims to analyze and predict the survival outcomes of passengers on the RMS Titanic, the infamous ship that sank on its maiden voyage in 1912. This project leverages machine learning techniques to build predictive models based on a dataset that includes various features of the passengers such as age, gender, ticket class, family size, and more.
